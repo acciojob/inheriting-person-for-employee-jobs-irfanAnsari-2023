@@ -26,7 +26,7 @@ class Employee extends Person{
 }
 
 
-function Employee(name, age, jobTitle) {}
+
 
 // Do not change code below this line
 window.Person = Person;
